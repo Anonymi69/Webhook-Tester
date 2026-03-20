@@ -11,4 +11,4 @@ STEP 1:
 
 STEP 2:
 Enjoy!
-And Make Sure To Give This Repo A Star ⭐
+<pre>And Make Sure To Give This Repo A Star ⭐</pre>
